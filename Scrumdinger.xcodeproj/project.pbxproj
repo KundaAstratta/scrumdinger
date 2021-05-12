@@ -17,6 +17,7 @@
 		97AAECE62640A64500B36CD9 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97AAECE52640A64500B36CD9 /* Color+Codable.swift */; };
 		97AAECEE2640A8CB00B36CD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97AAECED2640A8CB00B36CD9 /* Assets.xcassets */; };
 		97AAECF62644790700B36CD9 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97AAECF52644790700B36CD9 /* ScrumsView.swift */; };
+		97D3E1FC264C818A00B29C1D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D3E1FB264C818A00B29C1D /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		97AAECE52640A64500B36CD9 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		97AAECED2640A8CB00B36CD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97AAECF52644790700B36CD9 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		97D3E1FB264C818A00B29C1D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				97AAECAF263C38A300B36CD9 /* Preview Content */,
 				97AAECE02640884700B36CD9 /* CardView.swift */,
 				97AAECF52644790700B36CD9 /* ScrumsView.swift */,
+				97D3E1FB264C818A00B29C1D /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				97AAECAC263C389F00B36CD9 /* MeetingView.swift in Sources */,
 				97AAECF62644790700B36CD9 /* ScrumsView.swift in Sources */,
 				97AAECDC263F587700B36CD9 /* DailyScrum.swift in Sources */,
+				97D3E1FC264C818A00B29C1D /* DetailView.swift in Sources */,
 				97AAECE12640884700B36CD9 /* CardView.swift in Sources */,
 				97AAECE62640A64500B36CD9 /* Color+Codable.swift in Sources */,
 				97AAECAA263C389F00B36CD9 /* ScrumdingerApp.swift in Sources */,
